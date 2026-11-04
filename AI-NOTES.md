@@ -1,4 +1,4 @@
-# AI Notes
+
 
 ## Tools I used
 Which agent(s), and roughly how much of the code came from them.
