@@ -1,6 +1,6 @@
-# Project Name
+# The Forest Of Whispers
 
-One sentence: what this does.
+This is just a dungeons text based game, in which you are an adeventurer exploring and encountering problems.
 
 ## What it does
 A short paragraph. What problem does it solve, or what does it do for fun?
