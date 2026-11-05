@@ -1,4 +1,3 @@
-package GameUpdateThree;
 
 import java.awt.*;
 import java.util.Random;
